@@ -1,6 +1,6 @@
 # Live Docs
 
-## Live Docs is a live collaborative document manager and editer that allows you to collaboratively edit and manage a document in real time. [Demo](https://live-docs-drab.vercel.app/)
+## Live Docs is a live collaborative document manager and editer that allows you to collaboratively edit and manage a document in real time.
 
 ### Features 
 - Multiple users can create, edit, and delete documents they own.
