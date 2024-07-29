@@ -9,6 +9,10 @@
 - Notify users of document shares, new comments, and collaborator activities.
 - Show active collaborators with real-time presence indicators.
 
+![image](https://github.com/user-attachments/assets/63f24754-8d09-40a3-93d5-fdd28e26c3a2)
+
+
+
 Checkout the app [here](https://live-docs-drab.vercel.app/)
 
 ### Techstack 
